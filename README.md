@@ -4,7 +4,7 @@
 
 ### Latest Screenshot ###  
 
-![ScreenShot](screenshot.gif)  
+![ScreenShot](screenshot.gif) (Background is more crisp in real time and not like screenshot image here)
 
 ### Included Icons ###  
 
